@@ -1,4 +1,4 @@
-# tata1mg_jsonapi
+# tata1mg_jsonapi ![Badge](https://visitor-counter-badge.vercel.app/api/Soumya048/tata1mg_jsonapi/)
 API for Tata_1mg clone project.
 
 
